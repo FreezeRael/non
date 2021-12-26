@@ -1,0 +1,10 @@
+C:\Users\jalil\Desktop\non\c-f\program\target\debug\deps\borsh_schema_derive_internal-a5f4571c7b373d10.rmeta: C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\lib.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\helpers.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\enum_schema.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\struct_schema.rs
+
+C:\Users\jalil\Desktop\non\c-f\program\target\debug\deps\libborsh_schema_derive_internal-a5f4571c7b373d10.rlib: C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\lib.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\helpers.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\enum_schema.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\struct_schema.rs
+
+C:\Users\jalil\Desktop\non\c-f\program\target\debug\deps\borsh_schema_derive_internal-a5f4571c7b373d10.d: C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\lib.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\helpers.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\enum_schema.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\struct_schema.rs
+
+C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\lib.rs:
+C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\helpers.rs:
+C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\enum_schema.rs:
+C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\borsh-schema-derive-internal-0.9.1\src\struct_schema.rs:

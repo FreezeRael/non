@@ -1,0 +1,14 @@
+C:\Users\jalil\Desktop\non\c-f\program\target\debug\deps\blake3-e686eaa308d48cfe.rmeta: C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\lib.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\guts.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\platform.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\ffi_avx2.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\ffi_avx512.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\portable.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\ffi_sse2.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\ffi_sse41.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\traits.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\join.rs
+
+C:\Users\jalil\Desktop\non\c-f\program\target\debug\deps\blake3-e686eaa308d48cfe.d: C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\lib.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\guts.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\platform.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\ffi_avx2.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\ffi_avx512.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\portable.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\ffi_sse2.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\ffi_sse41.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\traits.rs C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\join.rs
+
+C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\lib.rs:
+C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\guts.rs:
+C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\platform.rs:
+C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\ffi_avx2.rs:
+C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\ffi_avx512.rs:
+C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\portable.rs:
+C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\ffi_sse2.rs:
+C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\ffi_sse41.rs:
+C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\traits.rs:
+C:\Users\jalil\.cargo\registry\src\github.com-1ecc6299db9ec823\blake3-1.2.0\src\join.rs:
